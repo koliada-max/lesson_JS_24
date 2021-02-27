@@ -9,3 +9,4 @@ function factorial(a, b, c) {
 }
   
 console.log(`your united number is ${factorial(first, second, third)}`);
+
